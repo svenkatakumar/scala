@@ -8,9 +8,9 @@ target/
 # ignore all files ending with ~
 *~ 
 
-.project
+#.project
 
-.classpath
+#.classpath
 
 .settings/
 
